@@ -8,6 +8,8 @@
 
 Just a simple JavaScript Applicaton that allows for creating, updating, removing, and storing a personal music collection. This application stores all information in a MongoDB database, and utilizes GraphQL and Apollo to handle requests.
 
+## Screenshot
+
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
 
 ## Installation
